@@ -1,0 +1,74 @@
+PROJECT,TASK_NAME,START_DATE,END_DATE,STATUS,ASSIGNED_TO,COST,BUDGET
+ACME Web Express Configuration,Identify server requirements,1/26/2017,1/27/2017,Closed,John Watson,200,500
+ACME Web Express Configuration,Determine Web listener configuration(s),1/28/2017,1/28/2017,Closed,James Cassidy,600,500
+ACME Web Express Configuration,Run installation,1/31/2017,1/31/2017,Closed,James Cassidy,200,200
+ACME Web Express Configuration,Create pilot workspace,2/2/2017,2/2/2017,Closed,John Watson,100,100
+ACME Web Express Configuration,Specify security authentication scheme(s),2/7/2017,2/7/2017,Open,John Watson,200,300
+ACME Web Express Configuration,Configure Workspace provisioning,2/8/2017,2/8/2017,Open,John Watson,200,100
+ACME Web Express Configuration,"Select servers for Development, Test, Production",2/11/2017,2/13/2017,Open,James Cassidy,200,600
+Bug Tracker,Document quality assurance procedures,12/12/2016,12/15/2016,Closed,Myra Sutcliff,3000,2000
+Bug Tracker,Review automated testing tools,12/16/2016,12/18/2016,Closed,Myra Sutcliff,750,1500
+Bug Tracker,Implement bug tracking software,12/31/2016,12/31/2016,Closed,Myra Sutcliff,100,100
+Bug Tracker,Train developers on tracking bugs,1/7/2017,1/12/2017,On-Hold,Myra Sutcliff,1000,2000
+Bug Tracker,Measure effectiveness of improved QA,1/19/2017,1/19/2017,Pending,Myra Sutcliff,0,500
+Convert Spreadsheets,Collect mission-critical spreadsheets,1/25/2017,1/26/2017,Closed,Pam King,2500,4000
+Convert Spreadsheets,Lock spreadsheets,1/28/2017,1/28/2017,Closed,Pam King,300,800
+Convert Spreadsheets,Create ACME Web Express applications from spreadsheets,2/5/2017,2/9/2017,Open,Pam King,6000,10000
+Convert Spreadsheets,Send links to previous spreadsheet owners,2/11/2017,2/11/2017,Pending,Pam King,0,500
+Discussion Forum,Identify owners,1/1/2017,1/1/2017,Closed,Hank Davis,250,300
+Discussion Forum,Install ACME Web Express application on internet server,1/7/2017,1/7/2017,Closed,Hank Davis,100,100
+Discussion Forum,Monitor participation,2/6/2017,2/7/2017,Open,Hank Davis,450,500
+Email Integration,Complete plan,1/18/2017,1/19/2017,Closed,Bob Nile,3000,1500
+Email Integration,Check software licenses,1/21/2017,1/21/2017,Closed,Bob Nile,200,200
+Email Integration,Get RFPs for new server,2/4/2017,2/5/2017,Closed,Bob Nile,2000,1000
+Email Integration,Purchase backup server,2/21/2017,2/23/2017,Pending,Bob Nile,0,3000
+Employee Satisfaction Survey,Complete questionnaire,1/11/2017,1/12/2017,Closed,Irene Jones,1200,800
+Employee Satisfaction Survey,Review with legal,1/13/2017,1/13/2017,On-Hold,Irene Jones,200,400
+Employee Satisfaction Survey,Plan rollout schedule,1/14/2017,1/14/2017,On-Hold,Irene Jones,0,750
+Client Server Conversion,Identify pilot Client Server applications,1/23/2017,1/23/2017,Closed,Scott Spencer,200,200
+Client Server Conversion,Migrate pilot Client Server to ACME Web Express,1/25/2017,1/28/2017,Closed,Scott Spencer,4500,5000
+Client Server Conversion,Post-migration review,1/29/2017,1/29/2017,Closed,Pam King,500,300
+Client Server Conversion,Plan migration schedule,2/1/2017,2/1/2017,Closed,Pam King,1000,1000
+Client Server Conversion,Migrate Client Server applications,2/6/2017,2/9/2017,Open,Pam King,300,12000
+Client Server Conversion,Test migrated applications,2/11/2017,2/12/2017,Pending,Russ Saunders,0,6000
+Client Server Conversion,User acceptance testing,2/15/2017,2/17/2017,Pending,Russ Saunders,0,2500
+Client Server Conversion,End-user Training,2/21/2017,2/21/2017,Pending,Myra Sutcliff,0,2500
+Client Server Conversion,Rollout migrated Client Server in ACME Web Express,2/22/2017,2/22/2017,Pending,Pam King,0,200
+Load Packaged Apps,Identify point solutions required,1/25/2017,1/25/2017,Closed,John Watson,200,300
+Load Packaged Apps,Install in development,1/26/2017,1/26/2017,Closed,John Watson,100,100
+Load Packaged Apps,Customize solutions,1/29/2017,1/31/2017,Open,John Watson,1500,4000
+Load Packaged Apps,Implement in Production,2/1/2017,2/1/2017,On-Hold,John Watson,200,1500
+Load Packaged Apps,Train Administrators of Packaged Apps,2/3/2017,2/3/2017,Pending,John Watson,0,1000
+Maintain Support Systems,HR software upgrades,1/4/2017,1/7/2017,Closed,Pam King,8000,7000
+Maintain Support Systems,Apply Billing System updates,1/8/2017,1/10/2017,Closed,Russ Saunders,9500,7000
+Maintain Support Systems,Arrange for vacation coverage,1/12/2017,1/12/2017,Open,Al Bines,300,500
+Maintain Support Systems,Investigate new Virus Protection software,2/21/2017,2/22/2017,Open,Pam King,1700,1500
+Migrate Desktop Application,Identify pilot desktop applications,1/16/2017,1/16/2017,Closed,Bob Nile,300,500
+Migrate Desktop Application,Migrate pilot applications to ACME Web Express,1/18/2017,1/19/2017,Closed,Bob Nile,1250,1500
+Migrate Desktop Application,Plan migration schedule,1/22/2017,1/22/2017,Closed,Bob Nile,600,200
+Migrate Desktop Application,Migrate desktop applications,2/14/2017,2/18/2017,Open,Bob Nile,1000,8000
+Migrate Desktop Application,User acceptance testing,2/20/2017,2/21/2017,Open,Bob Nile,1500,6000
+Migrate Desktop Application,End-user Training,2/24/2017,2/25/2017,Open,John Watson,0,2000
+Migrate Desktop Application,Post-migration review,3/10/2017,3/11/2017,Pending,Bob Nile,100,100
+Migrate from Legacy Server,Obtain Legacy Server credentials,2/26/2017,2/26/2017,Pending,James Cassidy,0,500
+Migrate from Legacy Server,Map data usage,2/28/2017,3/2/2017,Pending,Bob Nile,0,8000
+Migrate from Legacy Server,Identify integration points,3/3/2017,3/4/2017,Pending,Bob Nile,0,2000
+Migrate from Legacy Server,Create DB Connection to new server,3/3/2017,3/3/2017,Pending,Scott Spencer,0,100
+Migrate from Legacy Server,Migrate table structures,2/25/2017,2/26/2017,Pending,John Watson,0,2500
+Migrate from Legacy Server,Import data,3/9/2017,3/10/2017,Pending,John Watson,0,1000
+Migrate from Legacy Server,Convert processes,3/9/2017,3/11/2017,Pending,Pam King,0,3000
+Migrate from Legacy Server,Notify users,3/14/2017,3/14/2017,Pending,Bob Nile,0,200
+Migrate from Legacy Server,Cut over to new database,3/15/2017,3/15/2017,Pending,Bob Nile,0,1500
+Migrate from Legacy Server,Decommission Legacy Server,3/29/2017,3/29/2017,Pending,Al Bines,0,500
+Public Website,Determine host server,1/11/2017,1/11/2017,Closed,Tiger Scott,200,200
+Public Website,Check software licenses,1/11/2017,1/11/2017,Closed,Tom Suess,100,100
+Public Website,"Purchase additional software licenses, if needed",1/12/2017,1/13/2017,On-Hold,Al Bines,300,1000
+Public Website,Develop web pages,2/7/2017,2/8/2017,Open,Tiger Scott,0,2000
+Public Website,Plan rollout schedule,2/9/2017,2/9/2017,Open,Tom Suess,0,100
+Software Project Tracking,Conduct project kickoff meeting,2/3/2017,2/3/2017,Closed,Pam King,100,100
+Software Project Tracking,Customize Software Projects software,2/6/2017,2/7/2017,Open,Tom Suess,600,1000
+Software Project Tracking,"Enter base data (Projects, Milestones, etc.)",2/8/2017,2/8/2017,Open,Tom Suess,200,200
+Software Project Tracking,Load current tasks and enhancements,2/10/2017,2/10/2017,Open,Tom Suess,400,500
+Training for ACME Web Express,Create training workspace,1/23/2017,1/24/2017,Closed,James Cassidy,500,700
+Training for ACME Web Express,Publish links to self-study courses,1/25/2017,1/25/2017,Closed,John Watson,100,100
+Training for ACME Web Express,Publish development standards,1/25/2017,1/26/2017,On-Hold,John Watson,1000,2000
